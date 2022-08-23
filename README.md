@@ -24,10 +24,7 @@
     <TD>ANDROID-006</TD>
     <TD>Main Building Blocks</TD>
   </TR>
-  <TR>
-    <TD>ANDROID-007</TD>
-    <TD>Introduction To Hidaya Projects , Policies and Course Plan For Next Four Months</TD>
-  </TR>
+ 
   <TR>
     <TD>ANDROID-008</TD>
     <TD>Basic Android User Interface</TD>
