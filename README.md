@@ -48,44 +48,41 @@
     <TD>ANDROID-011</TD>
     <TD>AUDIO, VIDEO, AND USING THE CAMERA</TD>
   </TR>
+  
   <TR>
     <TD>ANDROID-012</TD>
-    <TD>Introduction To Hidaya Projects , Policies and Course Plan For Next Four Months</TD>
-  </TR>
-  <TR>
-    <TD>ANDROID-013</TD>
     <TD>FILES, SAVING STATE, AND PREFERENCES</TD>
   </TR>
   <TR>
-    <TD>ANDROID-014</TD>
+    <TD>ANDROID-013</TD>
     <TD>SQLite Database</TD>
   </TR>
   <TR>
-    <TD>ANDROID-015</TD>
+    <TD>ANDROID-014</TD>
     <TD>Telephony AND SMS</TD>
   </TR>
   <TR>
-    <TD>ANDROID-016</TD>
+    <TD>ANDROID-015</TD>
     <TD>Basic Content Providers</TD>
   </TR>
   <TR>
-    <TD>ANDROID-017</TD>
+    <TD>ANDROID-016</TD>
     <TD>Android Sensor</TD>
   </TR>
   <TR>
-    <TD>ANDROID-018</TD>
+    <TD>ANDROID-017</TD>
     <TD>BLUETOOTH, NFC, NETWORKS, AND WI-FI</TD>
   </TR>
   <TR>
-    <TD>ANDROID-019</TD>
+    <TD>ANDROID-018</TD>
     <TD>Android & Internet</TD>
   </TR>
   <TR>
-    <TD>ANDROID-020</TD>
+    <TD>ANDROID-019</TD>
     <TD>MAPS, GEOCODING, AND LOCATION-BASED SERVICES</TD>
   </TR>
    <TR>
-    <TD>ANDROID-021</TD>
+    <TD>ANDROID-020</TD>
     <TD>INVADING THE HOME SCREEN</TD>
   </TR>
   </TR>
